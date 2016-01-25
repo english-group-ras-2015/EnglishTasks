@@ -21,9 +21,18 @@ tionable.
 21. The fundamental task of system analysis is not solving problems but defining them. 22. The anisotropy due to cobalt is especially helpful. 
 23. They are to have due regard for precision of the data. 
 24. These seemingly basic alterations of the administrative structure will be of small practical importance. 
+	Эти кажущиеся основополагающими изменения административной структуры будут иметь невысокую практическую важность.
 25. Vinogradov's proof is by no means elementary or even easy. 
+	Доказательства Виноградова никоим образом не является элементарным или даже простым.
 26. Newton supposed that the mean density of the earth is between 5 and 6. 
-27. We shall be surprised if it occurs at all. 
-28. Everything perceived is to be found in Nature. 
-29. The components of a functional diagram are interconnected logical modules. 30. Strategies available in the dynamic situation are usually complicated functions of information received and actions undertaken at the preceding stages. 
+	Ньютон предполагал, что средняя плотность земли между 5 и 6.
+27. We shall be surprised if it occurs at all.
+	Мы должны быть удивлены, если это вообще произойдёт. 
+28. Everything perceived is to be found in Nature.
+	Всё ощущаемое может быть найдено в Природе. 
+29. The components of a functional diagram are interconnected logical modules. 
+	Компонентами функциональной диаграммы являются соединённые логические модули.
+30. Strategies available in the dynamic situation are usually complicated functions of information received and actions undertaken at the preceding stages. 
+	В динамической ситуации доступные стратегии обычно являются сложными функциями полученной информации и действий, предпринятых на предыдущих этапах.
 31. One criterion could be to consider first tests covering fewest faults.
+	Одним из критериев может быть рассмотрение в первую очередь тестов, покрывающих наименьшее число ошибок.
