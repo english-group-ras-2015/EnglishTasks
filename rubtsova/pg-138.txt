@@ -1,0 +1,49 @@
+1. There is an assumption underlying all moral estimates. 
+	В основе всех моральных суждений лежит некое предположение.
+2. There is no end to evolutionary process. 
+	Процесс эволюции не имеет конца.
+3. There are no necessary one to one relationships between the elements on these levels of description. 
+	На этом уровне описания необязательно существует взаимно однозначная связь между элементами.
+4. Is there any new evidence available as to these reactions? 
+	Есть ли какие-то новые доказательства этих реакций?
+5. There has been a renewed interest in this technique in recent years.
+	В последние годы интерес к этой технике вновь усилился.
+6. It is probable that there took place an inversion of configuration.
+	Возможно, что произошла инверсия конфигурации. 
+7. In other words there will never be a set of processes which are waiting for each other.
+	Иначе говоря, никогда не возникнет набора процессов, ожидающих друг друга. 
+8. How many solutions of the problem are there? 
+	Как много решений проблемы существует?
+9. There exist a number of general stimulation programs which deal with certain problems.
+	Существует некоторое количество общих программ стимуляции, которые решают определённые задачи.
+10. Euclid (300 B. C.) proved that there does not exist any largest prime number and that
+the set of prime numbers is infinite. 
+	В 300-м году до н.э. Евклид доказал, что не существует наибольшего простого числа, и что их множество бесконечно.
+11. There is left an unexplored area as big as that explored.
+	Неиследованный участок имеет такие же размеры, как и исследованный.
+12. Is there any difference between the canons of deduction and induction? 
+	Существует ли какое-то различие между правилами дедукции и индукции?
+13. Hence there must be a number of statements for which proof is not required. 
+	Следовательно, должен быть некий набор утверждений, не требующих доказательства.
+14. There is hardly any chance of there being a mistake in these calculations. 
+	Едва ли есть шанс, что в этих вычислениях ошибка.
+15. Sometimes there may result two parallel strings of final points of the same kind. 
+	Иногда получаются два параллельных ряда целевых точек одного вида.
+16. There followed a tremendous battle.
+	Последовала устрашающая битва.
+17. Did there develop another form of service? 
+	Развилась ли иная форма сервиса?
+18. There were various reasons, internal as well as external, to account for the actions. 
+	Были как внутренние, так и внешние причины, объясняющие действия.
+19. There does not exist a net which has two horizontal segments crossing a vertical line. 
+	Не существует сети, имеющей два горизонтальных сегмента, пересекающих вертикальную линию. 
+20. There did not remain any technical questions. 
+	Не осталось технических вопросов.
+21. There continues to be a need for methods for detecting synchronization errors dynamically. 
+	По-прежнему существует потребность в динамических методах определения ошибок синхронизации.
+22. There are not many formal results concerning path testing. 
+	Формальных результатов, касающихся тестирования путей, не очень много.
+23. There was not a single man who could decipher the inscription. 
+	Не было ни одного человека, способного дешифровать эту надпись.
+24. Hardly a week goes by in which somewhere in the country there does not assemble a group of people highly interested in the problem.
+	Едва ли проходит хотя бы неделя без того, что где-то в стране собирается группа людей, глубоко заинтересованных в проблеме.
