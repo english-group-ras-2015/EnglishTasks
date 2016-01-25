@@ -1,0 +1,19 @@
+1 . There exists an efficient algorithm to solve any of these
+problems. 
+	Существует эффективный алгоритм для решения любой из этих задач.
+2. There appeared three sets of nodes. 
+	Появилось три набора вершин.
+3. There will be left one decision to make. 
+	Останется принять одно решение.
+4. There resulted in number of alternatives. 
+	Получился набор альтернатив.
+5. There followed a new series of experiments.
+	Последовала новая серия экспериментов.
+6. There took place an inversion of the process.
+	Имела место инверсия процесса. 
+7. There is formed a gap between the two points of view. 
+	Между двумя точками зрения образовался разрыв.
+8. There remain some doubts about the way of making corrections. 
+	Остаются некоторые сомнения по поводу способа исправлений.
+9. There do appear, however, certain fundamental differences.
+	Появляются, однако, определённые фундаментальные различия.
