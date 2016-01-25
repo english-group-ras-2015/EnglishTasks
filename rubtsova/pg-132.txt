@@ -1,0 +1,14 @@
+1. It was not necessary to use the approach due to Blankenship at all. 
+	Согласно Бланкеншипу, не было никакой необходимости использовать такой подход.
+2. In this regime, efficiency changes only slightly due to changes in T_c. 
+	В данном режиме эффективность мало изменяется с изменением в T_e. 
+3. The error is mainly due to the latter values. 
+	Ошибка в основном из-за последних значений.
+4. After due consideration of the paper we proceeded to other items on the agenda. 
+	После соответствущего рассмотрения статьи мы перешли к другим задачам повестки.
+5. He is due to speak at the meeting. 
+	Он должен выступать на встрече.
+6. They treated the problem with due attention.
+	Они отнеслись к проблеме с должным вниманием.
+7. The disagreement was due to misunderstanding.
+	Несогласие было вызвано непониманием.
