@@ -1,31 +1,42 @@
 {
+  "1": {
 	"a matter": "вещество, материя, материал",
 	"to matter": "иметь значение",
 	"a matter of dispute": "спорный вопрос",
 	"a subject matter": "основная тема, содержание",
-	"no matter": "безразлично",
+	"no matter": "безразлично"
+  },
+  "2": {
 	"mean": "средний",
 	"a mean": "средняя величина / число",
 	"a means": "способ, средство",
 	"by means of": "с помощью",
 	"by no means": "ни в коем случае",
 	"by all means": "во что бы то ни стало",
-	"to mean": "значит, иметь в виду",
+	"to mean": "значит, иметь в виду"
+  },
+  "3": {
 	"a subject": "тема, предмет",
 	"subject to": "подверженный, подлежащий",
 	"to be subject to": "подвергаться чему-либо",
-	"to subject": "подвергать, подчинять",
+	"to subject": "подвергать, подчинять"
+  },
+  "4": {
 	"given": "при условии, что",
 	"provided (that)": "при условии, если",
 	"providing that": "при условии, если",
-	"save": "за исключением того, что",
+	"save": "за исключением того, что"
+  },
+  "5": {
 	"as it does": "фактически",
 	"in doing so": "при этом",
 	"to do away with": "уничтожить, покончить с",
 	"to do without": "обходиться без",
 	"to have to do with": "иметь дело с",
 	"to have much to do with": "иметь много общего",
-	"to have nothing to do with": "не иметь ничего общего",
+	"to have nothing to do with": "не иметь ничего общего"
+  },
+  "6": {
 	"apart from": "помимо",
 	"as to": "что касается",
 	"according to": "согласно",
@@ -40,56 +51,169 @@
 	"in view of": "ввиду",
 	"owing to": "благодаря",
 	"thanks to": "благодаря",
-	"with respect to": "по отношению к",
+	"with respect to": "по отношению к"
+  },
+  "7": {
 	"to be of interest": "представлять интерес",
 	"to be of importance": "иметь значение",
 	"to be of help": "оказывать помощь",
-	"to be of value": "представлять ценность",
+	"to be of value": "представлять ценность"
+  },
+  "8": {
 	"a number": "число",
 	"to number": "нумеровать",
 	"a number of": "ряд",
-	"the number of": "клоичество",
+	"the number of": "клоичество"
+  },
+  "9": {
 	"only": "только",
-	"the only": "единственный",
+	"the only": "единственный"
+  },
+  "10": {
 	"other than": "кроме как",
 	"otherwise": "иначе",
 	"each other": "друг друга",
-	"one another": "друг друга",
+	"one another": "друг друга"
+  },
+  "11": {
 	"both": "оба",
-	"both ... and ...": "как ... так и",
-	"now that": "теперь когда",
+	"both ... and ...": "как ... так и"
+  },
+  "12": {
+	"now that": "теперь когда"
+  },
+  "13": {
+  },
+  "14": {
+  },
+  "15": {
 	"as far as": "насколько, поскольку, до",
 	"as often as not": "нередко",
 	"as yet": "до сих пор, пока, ещё",
 	"such as": "такой, как; например",
-	"as such": "как таковой, по существу",
+	"as such": "как таковой, по существу"
+  },
+  "16": {
 	"far from (+ gerund)": "далеко не",
 	"far reaching": "далеко идущий",
 	"as far as ... concerned": "что касается, когда речь идёт о",
 	"as far back as": "ещё, уже",
 	"by far": "значительно, несомненно",
-	"in so far as": "поскольку",
+	"in so far as": "поскольку"
+  },
+  "17": {
+	"as well": "также",
+	"as well as": "так же, как",
 	"well below": "значительно ниже",
+	"well above": "значительно выше",
+	"well after": "значительно позже",
 	"well in advance": "значительно раньше",
-	"hardly": "едва, вряд ли",
-	"readily": "легко",
-	"succesive": "последовательный",
-	"partly": "до некоторой степени, частично",
+	"well over": "значительно больше"
+  },
+  "18": {
+	"either": "любой",
+	"either ... or": "любо, либо",
+	"neither": "ни один из",
+	"neither ... nor": "ни ... ни"
+  },
+  "19": {
+	"badly": "в значительной степени",
+	"eventually": "в конце концов",
+	"hardly": "едва ли",
+	"heavily": "сильно",
+	"increasingly": "все более и более",
+	"largely": "в основном",
+	"lately": "в последнее время",
+	"nearly": "почти",
+	"necessarily": "обязательно",
+	"radily": "легко",
+	"repeatedly": "многократно",
+	"ultimately": "в конечном счете"
+  },
+  "20": {
+	"partly": "частично",
+	"particularly": "в особенности",
+	"particular": "частный"
+  },
+  "21": {
+	"to differ": "различать",
+	"difference": "разница",
+	"different": "другой",
+	"differently": "иначе"
+  },
+  "22": {
+	"in time": "вовремя, кстати",
+	"on time": "вовремя, в незначительный срок",
+	"out of time": "несвоевременно",
+	"before time": "преждевременно",
+	"at no time": "никогда",
+	"in no time": "моментально",
+	"for the time being": "до поры до времени",
+	"at the same time": "в то же самое время"
+  },
+  "23": {
+	"last but one": "предпоследний",
+	"next but one": "через одного",
+	"cannot but inf.": "не может не гл."
+  },
+  "24": {
+	"to be": "быть, являться",
+	"to get": "становиться",
+	"to grow": "снаовиться",
+	"to turn": "становиться",
+	"to look": "выглядеть"
+  },
+  "25": {
+	"to apply smth": "применять",
+	"to apply": "относиться, касаться",
+	"to decrease smth": "уменьшать",
+	"to decrease smth": "уменьшать",
+	"to develop smth": "разивать",
+	"to develop": "разиваться",
+	"to form smth": "формировать",
+	"to form": "формироваться",
+	"to hold smth": "держать",
+	"to hold": "иметь силу",
+	"to increase smth": "увеличивать",
+	"to increase": "увеличиваться",
+	"to obtain smth": "получать",
+	"to obtain": "иметь место",
+	"to reduce smth": "уменьшать",
+	"to reduce": "сводить к"
+  },
+  "26": {
+	"to be the case": "иметь место, происходить",
+	"in case": "если",
+	"in the case of": "в случае",
+	"in any case": "во всяком случае",
+	"in no case": "ни в коем случае",
+	"to meet the case": "удовлетворять требованиям"
+  },
+  "27": {
+	"due": "должный, нужный",
+	"due to": "из-за"
+  },
+  "28": {
 	"to appear": "появляться",
 	"to exist": "существовать",
 	"to follow": "следовать",
-	"to occur": "иметь место, происходить",
+	"to occur": "иметь место",
 	"to result": "получаться",
 	"to remain": "оставаться",
 	"to seem": "казаться",
-	"to take place": "иметь место, происходить",
-	"to be formed" : "образовываться, получаться",
+	"to be formed": "образовываться, получаться",
 	"to be observed": "наблюдаться",
-	"to be left": "оставаться",
-	"to take into account (consideration)": "принять во внимание (в расчёт), учитывать",
-	"to take advantage of": "воспользоваться, использовать",
-	"to take care of": "следить, принимать меры, заботиться",
-	"to take for (as) granted": "принимать без доказательства, считать доказанным",
+	"to be left": "оставаться"
+  },
+  "29": {
+	"to take into account": "принять во внимание, учитывать",
+	"to take advantage of": "воспользоваться",
+	"to take care of": "заботиться",
+	"to take for (as) granted": "принимать без доказательства",
 	"to take part": "принимать участие",
-	"to take place": "иметь место, происходить"
+	"to take place": "происходить"
+  },
+  "30": {
+	"rather": "скорее"
+  }
 }
