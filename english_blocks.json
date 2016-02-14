@@ -215,5 +215,44 @@
   },
   "30": {
 	"rather": "скорее"
+  },
+  "35": {
+	"under consideration": "рассматриваемый",
+	"under examination": "ассматриваемый",
+	"under review": "ассматриваемый",
+	"under investigation": "исследуемый",
+	"under study": "исследуемый",
+	"under observation": "наблюдаемый",
+	"under test": "испытываемый",
+	"under way": "осуществляемый в данное время"
+  },
+  "36": {
+	"to proceed": "продолжать",
+	"to precede": "предшествовать"
+  },
+  "37": {
+	"to follow": "следовать за",
+	"following": "следующий за",
+	"followed by": "за которым следуют"
+  },
+  "38": {
+	"to get": "получать"
+  },
+  "39": {
+	"an effect": "влияние, эффект",
+	"to effect": "приводить к, осуществлять",
+	"an affect": "аффект",
+	"to affect": "влиять а",
+	"to be affect": "изменяться"
+  },
+  "40": {
+	"regard": "мнение, отношение",
+	"to regard": "рассматривать",
+	"in regard to": "относительно",
+	"with due regard for": "учитывая должным образом",
+	"without regard for": "не учитывая",
+	"as regards": "что касается",
+	"regarding": "относительно",
+	"regardless of": "независимо от, несмотря на"
   }
 }
